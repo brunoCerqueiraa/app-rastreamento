@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorSplashScreen">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="main_red">#FF2436</color>
+    <color name="main_yellow">#FFD12A</color>
+    <color name="main_blue">#1da7e7</color>
+    <color name="main_green">#43FF19</color>
+
+    <color name="main_dark">#111026</color>
+    <color name="main_light_dark">#2A3659</color>
+    <color name="main_light">#268C82</color>
+    <color name="main_light_light">#2DA690</color>
+    <color name="main_white">#F2EDDC</color>
+
+    <color name="second_red">#D90B1C</color>
+    <color name="second_red_dark">#61070E</color>
+    <color name="second_yellow">#FAF566</color>
+    <color name="second_blue">#9ACFDD</color>
+    <color name="second_white">#CABAAB</color>
+    <color name="second_dark_blue">#202731</color>
+    <color name="second_green">#2E9E16</color>
+
+    <color name="dark_blue">#3C5A87</color>
+    <color name="dark_green">#154E08</color>
+
+
+
+    <color name="gerentec_blue">#085e7f</color>
+
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GTI Caesb</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="obs">Obs</string>
+    <string name="title_activity_maps_geofone">Map</string>
+    <string name="title_activity_maps_varredura">Map</string>
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+</resources>
